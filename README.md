@@ -1,0 +1,2 @@
+# Credit-Card-Fraud-Detection-project-using-Machine-Learning.
+Credit Card Fraud Detection using Machine Learning on the creditcard.csv dataset. Performed data analysis, correlation heatmap, SMOTE balancing, Random Forest and Logistic Regression modeling, confusion matrix, ROC curve, Precision-Recall curve, cross-validation, and feature importance using Python, Pandas, Seaborn, Matplotlib, and Scikit-learn.
